@@ -5,3 +5,5 @@ Es un planeta telúrico con una atmósfera delgada de dióxido de carbono, y tie
 
 Sus características superficiales recuerdan tanto a los cráteres de la Luna como a los valles, desiertos y casquetes 
 polares de la Tierra.
+
+Devuelvan a Pluton
