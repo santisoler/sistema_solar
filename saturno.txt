@@ -1,7 +1,10 @@
 Saturno es el sexto planeta del sistema solar y es popular por sus atractivos anillos
 
-Estos anillos estan hechos de hielo y rocas muy pequenas, por lo que seria imposible caminar sobre ellos:( 
+Estos anillos estan hechos de hielo y rocas muy pequenas, por lo que seria imposible caminar sobre ellos 
 
 La densidad de saturno es muy baja, incluso mas baja que la densidad del agua. Es por esto que si imaginamos a saturno en una piscina 
 gigante en el espacio, este flotaria sin problema! 
+
+Su nombre proviene del dios romano Saturno, y una vuelta al sol corresponde a 30 en la tierra!
+
 Devuelvan a Pluton
