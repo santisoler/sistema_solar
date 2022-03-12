@@ -2,3 +2,4 @@ Neptuno es el octavo planeta en distancia respecto al Sol y el más lejano del s
 Su masa es diecisiete veces la de la Tierra 
 Su símbolo astronómico es ♆
 Forma parte de los denominados planetas exteriores
+Devuelvan a Pluton
